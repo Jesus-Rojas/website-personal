@@ -1,0 +1,9 @@
+<header class="header">
+  <div class="social-media">
+    <fa-icon
+      [icon]="icons[iconKey].icon"
+      (click)="navigateByUrl(iconKey)"
+      [styles]="iconStyles"
+      *ngFor="let iconKey of iconKeys"></fa-icon>
+  </div>
+</header>

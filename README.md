@@ -7,3 +7,4 @@
 - Eslint
 - Lint Staged
 - Pretty Quick
+- Font Awesome
