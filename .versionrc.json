@@ -10,8 +10,8 @@
     { "type": "perf", "hidden": true },
     { "type": "test", "hidden": true }
   ],
-  "commitUrlFormat": "https://github.com/Jesus-Rojas/website-personal.git/commit/{{hash}}",
-  "compareUrlFormat": "https://github.com/Jesus-Rojas/website-personal.git/compare/{{previousTag}}...{{currentTag}}",
+  "commitUrlFormat": "https://github.com/Jesus-Rojas/website-personal/commit/{{hash}}",
+  "compareUrlFormat": "https://github.com/Jesus-Rojas/website-personal/compare/{{previousTag}}...{{currentTag}}",
   "issuePrefixes": ["#"],
-  "issueUrlFormat": "https://github.com/Jesus-Rojas/website-personal.git/issues/{{id}}"
+  "issueUrlFormat": "https://github.com/Jesus-Rojas/website-personal/issues/{{id}}"
 }
