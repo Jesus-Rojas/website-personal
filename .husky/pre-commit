@@ -3,3 +3,4 @@
 
 npm run pretty-quick
 npx lint-staged -r
+npm run build
